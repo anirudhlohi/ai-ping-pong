@@ -1,0 +1,29 @@
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+     float: right;
+     border: white 1px solid;
+}
+.play{
+    font-size: 18px;
+}
+li{
+    text-align: left;
+}
+.footer{
+    position: sticky;
+    background-color: white;
+    color: black;
+    line-height: 3;
+    bottom: 0;
+}
+canvas{
+    border: white 5px solid;
+    box-shadow: white 5px 5px 5px;
+}
